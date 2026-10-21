@@ -13,7 +13,7 @@ SpatialCOC is a multimodal integration framework for spatial multi-omics data. S
 
 ## 🎬Getting started
 
-We provide detailed Toturials as well as Documentation at [SpatialCOC's toturials and documentation](https://spatialcoc-tutorial.readthedocs.io/en/latest/).
+We provide detailed Toturials as well as Documentation at [[SpatialCOC's toturials and documentation](https://spatialcoc-tutorial.readthedocs.io/en/latest/)](https://spatialcoc-tutorials.readthedocs.io/en/latest/).
 
 ## 📩Contact
 
